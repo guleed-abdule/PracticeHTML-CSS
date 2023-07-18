@@ -9,6 +9,9 @@ p{
     text-align: center; 
     border
 }
+h2{
+    text-align: left;
+}
 body{
     background-color: violet;
 }
