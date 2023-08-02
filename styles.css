@@ -22,4 +22,8 @@ table, th, td{
     border-collapse: collapse;
 }
 
+td{
+    background-color:azure;
+}
+
 
