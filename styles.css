@@ -16,6 +16,21 @@ body{
     text-align: left;
 }
 
+em{
+    color: crimson;
+    font-style: normal;
+    font-size: x-large;
+}
+.user{
+    font-weight: bold;
+    font-size: larger;
+    text-align: left;
+}
+img{
+    border-radius: 100px;
+    float: left;
+    margin-right: 10px;
+}
 
 table, th, td{
     border: 1px solid black;
